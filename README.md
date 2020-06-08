@@ -9,8 +9,8 @@ The Dashboard takes in data from a few main sources:
 
 - [Gun Violence Archive](https://www.gunviolencearchive.org/)
   - The GVA is one of the most reputable and reliable data sources for GV to date. Data is updated, scraped, and refreshed live from this site.
-- Mass Shooting Tracker 
-  - The MST database was discontinued in October 2019 to the best of my knowledge. It was an open source, crowd-supported dataset with a slightly larger pool than GVA. The dataset was saved and frozen shortly before it was discontinued.
+- [Mass Shooting Tracker](https://massshootingtracker.org/)
+  - The MST database is an open source, crowd-supported dataset with a slightly larger pool than GVA. The dataset was saved and frozen shortly before it was discontinued from its original location and has yet to be reinstated from October 2019.
 
 ### Definitions & Assumptions
 
