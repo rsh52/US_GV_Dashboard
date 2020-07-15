@@ -1,4 +1,4 @@
-# US G _Dashboard
+# US GV Dashboard
 
 Welcome to the **US Gun Violence (GV) Dashboard**, I developed this using the [R Statistical programming language](https://www.r-project.org/) as a personal project to investigate gun violence incidents in my home city of Philadelphia and the United States at large. 
 The *User Guide* tab will describe many of the same details, techniques, and assumptions as below.
