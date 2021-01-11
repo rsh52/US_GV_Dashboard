@@ -25,7 +25,6 @@ library(readr)
 
 # setwd() 
 # options(rsconnect.check.certificate = FALSE)
-
 source("Gun_Violence_Scraping.R")
 ```
 
